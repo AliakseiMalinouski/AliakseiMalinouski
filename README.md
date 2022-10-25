@@ -7,4 +7,4 @@
 
 My tech skills: 
 
-https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo<LABEL>-<MESSAGE>-<COLOR>
+mg src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/
