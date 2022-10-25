@@ -11,10 +11,8 @@
 
 <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=&logoColor=orange"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/SAAS/SCSS-pink?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/React-cadetblue?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=&logoColor=white">
 
-## My soft skills:
+## Contacts:
 
-1. Communication   
-2. Teamwork
-3. Thrift
-4. Creativity 
-5. Responsibility 
+e-mail: aleksymalinowski21@gmail.com
+
+linkedin: https://www.linkedin.com/in/aliaksei-malinouski-a44778249/
