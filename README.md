@@ -7,7 +7,7 @@
 
 
 
-## My tech skills: 
+## My tech skills:
 
 <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=&logoColor=orange"> 
 <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=&logoColor=white"> 
@@ -16,4 +16,10 @@
 <img src="https://img.shields.io/badge/React-cadetblue?style=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=&logoColor=white">
 
-  
+## My soft skills:
+
+1. Communication   
+2. Teamwork
+3. Thrift
+4. Creativity 
+5. Responsibility 
