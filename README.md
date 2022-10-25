@@ -5,7 +5,7 @@
 
 
 
-My tech skills: 
+##My tech skills: 
 
 <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=&logoColor=orange"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=&logoColor=white">
   
