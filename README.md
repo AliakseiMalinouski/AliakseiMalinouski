@@ -9,7 +9,7 @@
 
 ## My tech skills ⚡️ :
 
-<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=&logoColor=orange"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/SAAS/SCSS-pink?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/React-cadetblue?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Webpack-blue?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=&logoColor=orange"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/SAAS/SCSS-pink?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/React-cadetblue?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Webpack-blue?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/NPM-white?style=for-the-badge&logo=&logoColor=black">
 
 ## Contacts:
 
