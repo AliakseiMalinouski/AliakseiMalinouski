@@ -9,7 +9,7 @@
 
 ## My tech skills ⚡️ :
 
-<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=&logoColor=orange"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/SAAS/SCSS-pink?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/React-cadetblue?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Webpack-blue?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/NPM-lightblue?style=for-the-badge&logo=&logoColor=black">
+<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=&logoColor=orange"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/SAAS/SCSS-pink?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/React-cadetblue?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Webpack-blue?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/NPM-lightblue?style=for-the-badge&logo=&logoColor=black"> <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=&logoColor=white">
 
 ## Contacts:
 
@@ -17,4 +17,4 @@ e-mail: aleksymalinowski21@gmail.com
 
 linkedin: https://www.linkedin.com/in/aliaksei-malinouski-a44778249/
 
-![wallpaperflare com_wallpaper](https://user-images.githubusercontent.com/101357713/197851312-482d96a0-eddd-460b-8ab4-3bde9a43a20a.jpg)
+
