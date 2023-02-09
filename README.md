@@ -1,7 +1,7 @@
 ## Hi! 👋
 
 
- I am a junior front-end developer, I am looking for a job in a friendly team where I can get good work experience, improve my skills and work on interesting projects. "My-web-projects-certificates-cv"
+In this repository you can see my React js projects
 
 
 
