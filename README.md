@@ -1,11 +1,6 @@
 ## Hi! 👋
 
 
-In this repository you can see my React js projects
-
-
-
-
 
 ## My hard skills ⚡️ :
 
