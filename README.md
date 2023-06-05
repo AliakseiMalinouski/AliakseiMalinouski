@@ -1,6 +1,6 @@
-## Hi! 👋
+# Hi! 👋
 
-
+### My name is Alexei and I am 20 years old. I am a Front-End developer from Poland. In this github profile you can see my repositories: personal projects, my materials on Front-End development and in general my code! Welcome :)
 
 ## My hard skills ⚡️ :
 
