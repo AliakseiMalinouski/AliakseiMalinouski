@@ -42,6 +42,10 @@
 <img src="https://img.shields.io/badge/Framer Motion-purple?style=for-the-badge&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/React spring-pink?style=for-the-badge&logo=&logoColor=white">
 
+### JavaScript testing libraries  :
+
+<img src="https://img.shields.io/badge/Jest-orange?style=for-the-badge&logo=&logoColor=white">
+
 ### Contacts:
 
 e-mail: aleksymalinowski21@gmail.com
