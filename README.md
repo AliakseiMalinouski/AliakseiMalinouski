@@ -46,6 +46,18 @@
 
 <img src="https://img.shields.io/badge/Jest-orange?style=for-the-badge&logo=&logoColor=white">
 
+### NPM packages for React  :
+
+<img src="https://img.shields.io/badge/React Router-brown?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/React hook form-black?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/Events-yellow?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/i18next-green?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/EmailJS-orange?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/Axios-purple?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/StoryBook-pink?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/Styled Components-blue?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/React query-yellow?style=for-the-badge&logo=&logoColor=white">
+
 ### Contacts:
 
 e-mail: aleksymalinowski21@gmail.com
